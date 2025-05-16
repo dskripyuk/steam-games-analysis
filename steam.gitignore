@@ -36,7 +36,7 @@ env/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data files (можно закомментировать, если нужно хранить данные в репозитории)
+# Data files 
 data/
 !.gitkeep
 
@@ -51,7 +51,7 @@ Thumbs.db
 *.log
 logs/
 
-# CSV/Excel (если не хотите коммитить)
+# CSV/Excel 
 *.csv
 *.xlsx
 *.json
